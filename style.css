@@ -1,0 +1,50 @@
+html {
+  font-family: sans-serif;
+}
+
+.content {
+  margin: 0 auto;
+  width: 600px;
+}
+
+form {
+  padding: 30px;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  font-size: 20px;
+  line-height: 2;
+}
+
+input,
+textarea {
+  display: block;
+  font-size: 16px;
+  margin-top: 20px;
+  width: 100%;
+}
+
+label {
+  display: block;
+  margin-top: 30px;
+}
+
+input {
+  height: 30px;
+}
+
+button {
+  background-color: #008cba; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 20px;
+  margin: 0 auto;
+}
